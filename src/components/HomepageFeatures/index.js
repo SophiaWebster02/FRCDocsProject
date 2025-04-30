@@ -4,27 +4,25 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '2025 Robot, Bruce',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Bruce was designed to compete in the FRC 2025 game REEFSCAPE. The robot has an endeffector, arm, elevator, climber, and drive train that have been programmed to mostly autonomously move through the competition field.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'MapleSim/Advantage Kit',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our team uses MapleSim to simulate robot actions before testing them on the game field. This allows us to program and test code before our robot is built our while we are practicing. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Autonoumous',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
