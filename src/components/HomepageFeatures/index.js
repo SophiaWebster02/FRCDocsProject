@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '2025 Robot, Bruce',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/Robot.svg').default,
     description: (
       <>
         Bruce was designed to compete in the FRC 2025 game REEFSCAPE. The robot has an endeffector, arm, elevator, climber, and drive train that have been programmed to mostly autonomously move through the competition field.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'MapleSim/Advantage Kit',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/Controller.svg').default,
     description: (
       <>
         Our team uses MapleSim to simulate robot actions before testing them on the game field. This allows us to program and test code before our robot is built our while we are practicing. 
