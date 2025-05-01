@@ -94,12 +94,12 @@ const config = {
             items: [
               {
                 label: 'Hoya Robotics GitHub',
-                href: 'https://github.com/HoyaRobotics/',
+                href: 'https://github.com/HoyaRobotics/4152Reefscape2025',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Sophia's Super Awesome Project (Should get 100%)`,
       },
       prism: {
         theme: prismThemes.github,
