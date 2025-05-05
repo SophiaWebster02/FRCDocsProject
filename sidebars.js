@@ -53,6 +53,28 @@ const sidebars = {
           collapsed: true,
           items: ['programming-overview/IOReal','programming-overview/IOSim'],
         },
+        {
+          type: 'category',
+          label: 'Configuring Motors',
+          link:{
+            type:'generated-index',
+            title: 'Configuring Motors',
+            description: 'Add info here',
+          },
+          collapsed: true,
+          items: ['programming-overview/RevHardwareClient','programming-overview/PheonixTuner'],
+        },
+        {
+          type: 'category',
+          label: 'Control Loop Tuning',
+          link:{
+            type:'generated-index',
+            title: 'Control Loop Tuning',
+            description: 'Add info here',
+          },
+          collapsed: true,
+          items: ['programming-overview/PID','programming-overview/FeedForward'],
+        },
       ],
     },
   ],
